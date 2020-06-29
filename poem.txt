@@ -3,3 +3,4 @@ The Animal
 pig
 dog
 cat
+mice
