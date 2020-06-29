@@ -1,7 +1,10 @@
-The Animal
+The Animal and The Fruits
 
 pig
 dog
 cat
 mice
 chicken
+
+
+Apple
