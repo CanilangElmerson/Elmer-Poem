@@ -1,4 +1,4 @@
-The Animal, Fruits and vegies
+The Animal and The Fruits
 
 pig
 dog
@@ -10,3 +10,4 @@ chicken
 Apple
 
 eggplant
+ampalaya
