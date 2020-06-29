@@ -1,0 +1,16 @@
+The Animal and The Fruits
+
+pig
+dog
+cat
+mice
+chicken
+
+
+Apple
+orange
+
+cherry
+another change oranges
+
+test another commit
