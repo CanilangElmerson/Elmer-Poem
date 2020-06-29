@@ -1,3 +1,4 @@
+  
 The Animal and The Fruits
 
 pig
@@ -8,6 +9,6 @@ chicken
 
 
 Apple
+orange
 
-eggplant
-ampalaya
+Eggplant
